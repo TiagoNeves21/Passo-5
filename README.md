@@ -1,5 +1,5 @@
 # Passo-5
-<!DOCTYPE html>
+
 <html>
 <body>
 <table>
